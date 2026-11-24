@@ -1,3 +1,12 @@
+# as-rules-apple
+
+Ansible Messenger — правила Bazel для платформ Apple.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [ali-fareed/rules_apple](https://github.com/ali-fareed/rules_apple), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 # Apple Rules for [Bazel](https://bazel.build)
 
 This repository contains rules for [Bazel](https://bazel.build) that can be
